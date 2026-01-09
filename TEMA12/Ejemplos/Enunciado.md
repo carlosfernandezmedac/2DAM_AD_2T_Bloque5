@@ -1,4 +1,4 @@
-# 🧪 Ejercicio práctico MongoDB — Clientes y Empleados (Enunciado)
+# Ejercicio práctico MongoDB — Clientes y Empleados (Enunciado)
 
 ## Contexto
 
