@@ -161,8 +161,7 @@ Las bases de datos No-SQL distribuyen los datos entre múltiples nodos,
 permitiendo que la memoria de cada nodo actúe como caché.
 
 Esto implica que:
-- No es necesaria una capa de caché externa
-- Se elimina la necesidad de sincronizar la caché con la base de datos
+- La memoria de los nodos actúa como caché
 - Se simplifica la administración del sistema
 
 ---
