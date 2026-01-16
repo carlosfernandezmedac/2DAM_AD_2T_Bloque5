@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740f7"
+  },
+  "Nombre": "Juan Pérez",
+  "Telefono": "123456789",
+  "Edad": 30,
+  "FechaRegistro": "2023-01-01",
+  "Departamento": "Finanzas",
+  "Salario": 3000,
+  "Puesto": "Analista Financiero",
+  "Dirección": {
+    "Ciudad": "Sevilla",
+    "CódigoPostal": "41001",
+    "Calle": "Calle Tetuán"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740f8"
+  },
+  "Nombre": "Sofía Hernández",
+  "Telefono": "789456123",
+  "FechaRegistro": "2023-01-05",
+  "Departamento": "Ventas",
+  "Salario": 2900,
+  "Puesto": "Representante de Ventas",
+  "Dirección": {
+    "Ciudad": "Almería",
+    "CódigoPostal": "04001",
+    "Calle": "Paseo de Almería"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740f9"
+  },
+  "Nombre": "Elena Nito",
+  "Telefono": "112233445",
+  "Edad": 32,
+  "FechaRegistro": "2023-02-01",
+  "Departamento": "Logística",
+  "Salario": 2750,
+  "Puesto": "Coordinadora de Logística",
+  "Dirección": {
+    "Ciudad": "Jerez de la Frontera",
+    "CódigoPostal": "11403",
+    "Calle": "Calle Larga"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740fa"
+  },
+  "Nombre": "Laura Martínez",
+  "Telefono": "321654987",
+  "Edad": 28,
+  "FechaRegistro": "2023-01-04",
+  "Departamento": "Tecnología de la Información",
+  "Salario": 3100,
+  "Puesto": "Desarrolladora de Software",
+  "Dirección": {
+    "Ciudad": "Córdoba",
+    "CódigoPostal": "14001",
+    "Calle": "Avenida Ronda de los Tejares"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740fb"
+  },
+  "Nombre": "Armando Casas",
+  "Telefono": "554433221",
+  "Edad": 40,
+  "FechaRegistro": "2023-02-02",
+  "Departamento": "Producción",
+  "Salario": 3300,
+  "Puesto": "Supervisor de Producción",
+  "Dirección": {
+    "Ciudad": "Huelva",
+    "CódigoPostal": "21001",
+    "Calle": "Gran Vía"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740fc"
+  },
+  "Nombre": "Luz Solar",
+  "Telefono": "998877665",
+  "FechaRegistro": "2023-02-03",
+  "Departamento": "Investigación y Desarrollo",
+  "Salario": 3500,
+  "Puesto": "Investigadora Científica",
+  "Dirección": {
+    "Ciudad": "Cádiz",
+    "CódigoPostal": "11001",
+    "Calle": "Avenida Andalucía"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740fd"
+  },
+  "Nombre": "Mario Neta",
+  "Telefono": "667788990",
+  "Edad": 35,
+  "FechaRegistro": "2023-02-04",
+  "Departamento": "Relaciones Públicas",
+  "Salario": 2850,
+  "Puesto": "Especialista en Relaciones Públicas",
+  "Dirección": {
+    "Ciudad": "Marbella",
+    "CódigoPostal": "29601",
+    "Calle": "Avenida Ricardo Soriano"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740fe"
+  },
+  "Nombre": "Ana Gómez",
+  "Telefono": "987654321",
+  "Edad": 25,
+  "FechaRegistro": "2023-01-02",
+  "Departamento": "Marketing",
+  "Salario": 2800,
+  "Puesto": "Especialista en Marketing Digital",
+  "Dirección": {
+    "Ciudad": "Málaga",
+    "CódigoPostal": "29015",
+    "Calle": "Calle Larios"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a0740ff"
+  },
+  "Nombre": "Carlos López",
+  "Telefono": "456123789",
+  "FechaRegistro": "2023-01-03",
+  "Departamento": "Recursos Humanos",
+  "Salario": 3200,
+  "Puesto": "Gerente de Recursos Humanos",
+  "Dirección": {
+    "Ciudad": "Granada",
+    "CódigoPostal": "18001",
+    "Calle": "Calle Reyes Católicos"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074100"
+  },
+  "Nombre": "Elba Zurita",
+  "Telefono": "123123123",
+  "Edad": 38,
+  "FechaRegistro": "2023-02-08",
+  "Departamento": "Operaciones",
+  "Salario": 3050,
+  "Puesto": "Directora de Operaciones",
+  "Dirección": {
+    "Ciudad": "San Fernando",
+    "CódigoPostal": "11100",
+    "Calle": "Calle Real"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074101"
+  },
+  "Nombre": "Alan Brito",
+  "Telefono": "321321321",
+  "Edad": 27,
+  "FechaRegistro": "2023-02-09",
+  "Departamento": "I+D",
+  "Salario": 3300,
+  "Puesto": "Ingeniero de I+D",
+  "Dirección": {
+    "Ciudad": "Motril",
+    "CódigoPostal": "18600",
+    "Calle": "Avenida de Salobreña"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074102"
+  },
+  "Nombre": "Esteban Dido",
+  "Telefono": "556677889",
+  "FechaRegistro": "2023-02-06",
+  "Departamento": "Contabilidad",
+  "Salario": 2900,
+  "Puesto": "Contador",
+  "Dirección": {
+    "Ciudad": "Estepona",
+    "CódigoPostal": "29680",
+    "Calle": "Avenida España"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074103"
+  },
+  "Nombre": "Dolores Fuertes",
+  "Telefono": "443322110",
+  "Edad": 45,
+  "FechaRegistro": "2023-02-07",
+  "Departamento": "Atención al Cliente",
+  "Salario": 2700,
+  "Puesto": "Gerente de Atención al Cliente",
+  "Dirección": {
+    "Ciudad": "Chiclana de la Frontera",
+    "CódigoPostal": "11130",
+    "Calle": "Calle la Plaza"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074104"
+  },
+  "Nombre": "Elsa Capunta",
+  "Telefono": "213213213",
+  "FechaRegistro": "2023-02-10",
+  "Departamento": "Diseño",
+  "Salario": 3100,
+  "Puesto": "Diseñadora Gráfica",
+  "Dirección": {
+    "Ciudad": "Algeciras",
+    "CódigoPostal": "11201",
+    "Calle": "Avenida Virgen del Carmen"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bc09b2b0c4dfc87a074105"
+  },
+  "Nombre": "Susana Oria",
+  "Telefono": "223344556",
+  "Edad": 29,
+  "FechaRegistro": "2023-02-05",
+  "Departamento": "Jurídico",
+  "Salario": 3200,
+  "Puesto": "Abogada",
+  "Dirección": {
+    "Ciudad": "Roquetas de Mar",
+    "CódigoPostal": "04740",
+    "Calle": "Avenida del Mediterráneo"
+  }
+}]
